@@ -16,3 +16,5 @@ The app allows users to:
 ## App Walkthrough
 Here's a walkthrough of our app:
 
+<img src = "https://user-images.githubusercontent.com/65494126/216195139-69cc1731-fca9-4afa-9d4e-6b45194e267b.gif" width=250 />
+
