@@ -18,3 +18,9 @@ Here's a walkthrough of our app:
 
 <img src = "https://user-images.githubusercontent.com/65494126/216195139-69cc1731-fca9-4afa-9d4e-6b45194e267b.gif" width=250 />
 
+## Key Skills Demonstarted
+-  Designed and implemented a custom application tracking system using Swift.
+- Utilized databases to store and manage app data, ensuring data consistency and reliability.
+- Integrated APIs to retrieve and display weather forecasts and historical data.
+- Created an intuitive calendar interface for tracking pesticide applications.
+- Developed a reporting system to generate reports for regulatory compliance and data analysis (TBD).
